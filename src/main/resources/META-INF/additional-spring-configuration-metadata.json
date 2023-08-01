@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "flyway",
+      "type": "java.lang.String",
+      "description": "Description for flyway."
+    },
+    {
+      "name": "flyway",
+      "type": "java.lang.String",
+      "description": "Description for flyway."
+    }
+  ]
+}
